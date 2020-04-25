@@ -1,0 +1,40 @@
+# gradle ignore
+target/
+output/
+build/
+.gradle/
+querydsl/
+
+*~
+*.class
+*.war
+*.zip
+*.tar
+*.tar.gz
+tree.txt
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+out/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+# vscode
+.vscode/
